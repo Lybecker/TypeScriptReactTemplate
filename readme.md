@@ -12,3 +12,5 @@ To use this template:
    `"typescript.tsdk": "<path to TypeScript libs>"` 
 
 4. You're all set! Run `npm start` and open a browser `http://localhost:3000` 
+
+It might take a minute or two before the server replies the first time.
