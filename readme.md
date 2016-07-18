@@ -15,3 +15,7 @@ To use this template:
 5. Start developing your React project ([React Cheatsheet](http://ricostacruz.com/cheatsheets/react.html))
 
 It might take a minute or two before the server replies the first time.
+
+## Enable client-side debugging in Chrome and Edge ##
+
+Via the [Chrome/Edge Debugger for VS Code](https://code.visualstudio.com/blogs/2016/02/23/introducing-chrome-debugger-for-vs-code) it is simple to debug the React solution.
